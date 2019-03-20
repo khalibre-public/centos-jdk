@@ -14,7 +14,7 @@ Both images are built on Docker HUB and available for immediate pull from the pu
 
 OpenJDK 8
 
-docker pull jboss/base-jdk:8
+docker pull khalibre/centos-jdk:8
 
 Issues
 

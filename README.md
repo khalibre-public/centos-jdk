@@ -7,12 +7,12 @@ Currently this repository contains following images:
 
     JDK 8 (in the jdk8 branch)
 
-Both images extend the khalibre/centos-base:latest image and add latest OpenJDK distribution for selected version. Additionally a JAVA_HOME environment variable is set.
+Both images extend the khalibre/centos-base:latest image and add Azul Zulu 8 distribution for selected version. Additionally a JAVA_HOME environment variable is set.
 Availability
 
 Both images are built on Docker HUB and available for immediate pull from the public registry.
 
-OpenJDK 8
+Azul Zulu 8
 
 docker pull khalibre/centos-jdk:8
 
